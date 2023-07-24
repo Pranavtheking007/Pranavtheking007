@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NLTK,Tensorfklow,Seaborns,Matplotlib,Numpy,Pandas,Scikit-Learn**
 
-- 🌱 I’m currently learning **NLP Fundamentals**
+- 🌱 I’m currently learning **Transformers, Lang Chain**
 
 - 🤝 I’m looking for help with **Pytorch**
 
