@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Singh</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="3%"/>, I'm Pranav Singh</h1>
 <h3 align="center">A passionate Machine Learning developer and Data Science Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavtheking007" alt="pranavtheking007" /></a> </p>
